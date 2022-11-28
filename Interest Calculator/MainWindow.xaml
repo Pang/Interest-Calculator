@@ -5,7 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Interest_Calculator"
         mc:Ignorable="d"
-        Title="Interest Calculator" Height="300" Width="300"
+        Title="Interest Calculator"
+        MaxHeight="300" MinHeight="300" MaxWidth="300" MinWidth="300"
         Background="#222" Foreground="White">
     <Grid>
         <Grid.ColumnDefinitions>
